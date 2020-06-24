@@ -1,25 +1,25 @@
 @font-face{
-  src: url('../www/fonts/Montserrat-ExtraLight.ttf');
+  src: url('../fonts/Montserrat-ExtraLight.ttf');
        font-family: 'Mont-Exlight';
 }
 @font-face{
-  src: url('../www/fonts/Montserrat-Light.ttf');
+  src: url('../fonts/Montserrat-Light.ttf');
   font-family: 'Mont-Light';
 }
 @font-face{
-  src: url('../www/fonts/Raleway-ExtraBold.ttf');
+  src: url('../fonts/Raleway-ExtraBold.ttf');
   font-family: 'Rale-ExBold';
 }
 @font-face{
-  src: url('../www/fonts/Raleway-Medium.ttf');
+  src: url('../fonts/Raleway-Medium.ttf');
   font-family: 'Rale-Medium';
 }
 @font-face{
-  src: url('../www/fonts/Raleway-Regular.ttf');
+  src: url('../fonts/Raleway-Regular.ttf');
   font-family: 'Rale-Regular';
 }
 @font-face{
-  src: url('../www/fonts/Raleway-SemiBold.ttf');
+  src: url('../fonts/Raleway-SemiBold.ttf');
   font-family: 'Rale-SemiBold';
 }
 
@@ -411,9 +411,9 @@ section{
   .img-carousel{
     max-width: 1200px;
     height: 482px;
-    background: url(../www/img/browser-center.png) center bottom , 
-                url(../www/img/browser-left.png) left bottom,
-                url(../www/img/browser-right.png) right bottom ;
+    background: url(../img/browser-center.png) center bottom , 
+                url(../img/browser-left.png) left bottom,
+                url(../img/browser-right.png) right bottom ;
     background-repeat: no-repeat;
     margin: 0 auto;
   }
@@ -577,7 +577,7 @@ section{
 
 /* <!-- //////////////VIDEO////////// --> */
 .video{
-  background-image: url(../www/img/video.png);
+  background-image: url(../img/video.png);
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
@@ -671,7 +671,7 @@ transform:  rotateX(180deg) rotateY(-180deg) rotateZ(180deg);
   text-align: left;
   color: #8c8c8c;
   list-style: none;
-  background: url(../www/img/arrow-list.png) no-repeat 0 4px;
+  background: url(../img/arrow-list.png) no-repeat 0 4px;
   padding-left: 50px;
 }
 /* //////////////////////RECENT-post//////////// */
@@ -840,7 +840,7 @@ transform:  rotateX(180deg) rotateY(-180deg) rotateZ(180deg);
 
 /* //////////////////////////////////PARTNERS????///// */
 .partners{
-  background-image: url(../www/img/photo-bg-footer.png);
+  background-image: url(../img/photo-bg-footer.png);
   background-size: cover;
   height: 100%;
   width: 100%;
