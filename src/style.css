@@ -529,7 +529,7 @@ section{
     background-color: #fbfaf8;
     width: 100%;
     position: relative;
-    transition: ease-in-out 1s;
+    transition: ease-in-out 0.5s;
   }
   .img-block:hover .text-description:before{
     border-left: 14px solid transparent;
